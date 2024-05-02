@@ -1,0 +1,139 @@
+04/30/2024-03:27:47.765782  [**] [1:10001:1] ajji.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:46200 -> 183.111.169.134:80
+04/30/2024-03:27:48.041675  [**] [1:10001:1] ajji.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:46202 -> 183.111.169.134:80
+04/30/2024-03:27:48.295081  [**] [1:10001:1] ajji.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:46218 -> 183.111.169.134:80
+04/30/2024-03:27:48.300951  [**] [1:10001:1] ajji.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:46262 -> 183.111.169.134:80
+04/30/2024-03:27:48.302621  [**] [1:10001:1] ajji.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:46278 -> 183.111.169.134:80
+04/30/2024-03:27:48.304596  [**] [1:10001:1] ajji.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:46234 -> 183.111.169.134:80
+04/30/2024-03:27:48.305082  [**] [1:10001:1] ajji.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:46248 -> 183.111.169.134:80
+04/30/2024-03:27:48.326756  [**] [1:10001:1] ajji.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:46280 -> 183.111.169.134:80
+04/30/2024-03:27:48.331099  [**] [1:10001:1] ajji.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:46294 -> 183.111.169.134:80
+04/30/2024-03:27:48.335438  [**] [1:10001:1] ajji.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:46310 -> 183.111.169.134:80
+04/30/2024-03:27:48.344536  [**] [1:10001:1] ajji.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:46322 -> 183.111.169.134:80
+04/30/2024-03:27:48.347987  [**] [1:10001:1] ajji.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:60132 -> 180.66.173.215:80
+04/30/2024-03:27:48.344048  [**] [1:10001:1] ajji.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:46316 -> 183.111.169.134:80
+04/30/2024-03:27:48.682679  [**] [1:10001:1] ajji.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:46332 -> 183.111.169.134:80
+04/30/2024-03:27:48.682632  [**] [1:10001:1] ajji.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:46336 -> 183.111.169.134:80
+04/30/2024-03:27:48.754690  [**] [1:10001:1] ajji.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:54924 -> 180.66.173.117:80
+04/30/2024-03:27:49.015464  [**] [1:10001:1] ajji.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:48090 -> 142.250.206.194:80
+04/30/2024-03:27:49.019384  [**] [1:10001:1] ajji.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:48100 -> 142.250.206.194:80
+04/30/2024-03:27:54.643642  [**] [1:10001:1] ajji.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50858 -> 183.111.169.134:80
+04/30/2024-03:27:54.662479  [**] [1:10001:1] ajji.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50866 -> 183.111.169.134:80
+04/30/2024-03:34:13.042257  [**] [1:10002:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:46710 -> 44.240.158.19:80
+05/01/2024-22:38:08.060137  [**] [1:10005:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:51754 -> 142.250.206.206:80
+05/01/2024-22:38:08.208170  [**] [1:10005:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50496 -> 172.217.161.228:80
+05/01/2024-22:41:08.886631  [**] [1:10006:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:39800 -> 223.130.192.248:80
+05/01/2024-22:41:08.975509  [**] [1:10006:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:51780 -> 23.210.36.147:80
+05/01/2024-22:41:27.747913  [**] [1:10004:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43466 -> 180.67.238.188:80
+05/01/2024-22:41:27.998256  [**] [1:10004:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43484 -> 180.67.238.188:80
+05/01/2024-22:41:28.180428  [**] [1:10004:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43470 -> 180.67.238.188:80
+05/01/2024-22:41:28.798485  [**] [1:10004:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43466 -> 180.67.238.188:80
+05/01/2024-22:41:28.924641  [**] [1:10004:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43470 -> 180.67.238.188:80
+05/01/2024-22:41:28.926650  [**] [1:10004:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43490 -> 180.67.238.188:80
+05/01/2024-22:41:28.936318  [**] [1:10004:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43466 -> 180.67.238.188:80
+05/01/2024-22:41:28.953052  [**] [1:10004:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43512 -> 180.67.238.188:80
+05/01/2024-22:41:28.962505  [**] [1:10004:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43504 -> 180.67.238.188:80
+05/01/2024-22:41:29.010829  [**] [1:10004:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43518 -> 180.67.238.188:80
+05/01/2024-22:41:29.042341  [**] [1:10004:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43504 -> 180.67.238.188:80
+05/01/2024-22:41:29.082609  [**] [1:10004:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43512 -> 180.67.238.188:80
+05/01/2024-22:41:29.083403  [**] [1:10004:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43466 -> 180.67.238.188:80
+05/01/2024-22:41:29.096335  [**] [1:10004:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43518 -> 180.67.238.188:80
+05/01/2024-22:41:29.102646  [**] [1:10004:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43470 -> 180.67.238.188:80
+05/01/2024-22:41:29.110285  [**] [1:10004:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43490 -> 180.67.238.188:80
+05/01/2024-22:41:29.115878  [**] [1:10004:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43504 -> 180.67.238.188:80
+05/01/2024-22:41:29.116872  [**] [1:10004:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43518 -> 180.67.238.188:80
+05/01/2024-22:41:29.120340  [**] [1:10004:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43512 -> 180.67.238.188:80
+05/01/2024-22:41:29.122169  [**] [1:10004:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43466 -> 180.67.238.188:80
+05/01/2024-22:41:29.135644  [**] [1:10004:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43490 -> 180.67.238.188:80
+05/01/2024-22:41:29.163439  [**] [1:10004:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43504 -> 180.67.238.188:80
+05/01/2024-22:41:29.163488  [**] [1:10004:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43470 -> 180.67.238.188:80
+05/01/2024-22:41:29.167402  [**] [1:10004:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43518 -> 180.67.238.188:80
+05/01/2024-22:41:29.174452  [**] [1:10004:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43490 -> 180.67.238.188:80
+05/01/2024-22:42:42.088387  [**] [1:10010:1] notion.so access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:33246 -> 104.18.39.102:443
+05/01/2024-22:42:42.107654  [**] [1:10010:1] notion.so access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:39502 -> 172.64.148.154:443
+05/01/2024-22:42:42.206557  [**] [1:10010:1] notion.so access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:39518 -> 172.64.148.154:443
+05/01/2024-22:42:44.955689  [**] [1:10010:1] notion.so access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:39532 -> 172.64.148.154:443
+05/01/2024-22:42:44.959641  [**] [1:10010:1] notion.so access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:39530 -> 172.64.148.154:443
+05/01/2024-22:42:55.885958  [**] [1:10011:1] tistory.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:57270 -> 121.53.105.234:443
+05/01/2024-22:42:56.080402  [**] [1:10011:1] tistory.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:57272 -> 121.53.105.234:443
+05/01/2024-22:42:56.896708  [**] [1:10011:1] tistory.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:57280 -> 121.53.105.234:443
+05/01/2024-22:42:57.752634  [**] [1:10011:1] tistory.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:46272 -> 121.53.105.132:443
+05/01/2024-22:43:04.233929  [**] [1:10010:1] notion.so access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:56272 -> 104.18.39.102:443
+05/01/2024-22:43:04.318982  [**] [1:10010:1] notion.so access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:56278 -> 104.18.39.102:443
+05/01/2024-22:43:05.855004  [**] [1:10010:1] notion.so access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:56304 -> 104.18.39.102:443
+05/01/2024-22:43:05.858309  [**] [1:10010:1] notion.so access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:56292 -> 104.18.39.102:443
+05/01/2024-22:46:09.757681  [**] [1:10012:1] youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:47352 -> 142.250.206.238:443
+05/01/2024-22:46:24.613224  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43336 -> 183.111.134.78:443
+05/01/2024-22:46:25.161914  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43350 -> 183.111.134.78:443
+05/01/2024-22:46:25.173468  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43374 -> 183.111.134.78:443
+05/01/2024-22:46:25.175220  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43360 -> 183.111.134.78:443
+05/01/2024-22:46:25.175714  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43382 -> 183.111.134.78:443
+05/01/2024-22:46:25.231462  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43398 -> 183.111.134.78:443
+05/01/2024-22:46:25.231515  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:58752 -> 116.120.4.214:443
+05/01/2024-22:46:25.244090  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:58766 -> 116.120.4.214:443
+05/01/2024-22:46:25.260594  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:58770 -> 116.120.4.214:443
+05/01/2024-22:46:25.261753  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:58754 -> 116.120.4.214:443
+05/01/2024-22:46:25.288607  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:58776 -> 116.120.4.214:443
+05/01/2024-22:46:25.291126  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:58784 -> 116.120.4.214:443
+05/01/2024-22:46:25.328247  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:48398 -> 117.52.124.146:443
+05/01/2024-22:46:25.335833  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:48386 -> 117.52.124.146:443
+05/01/2024-22:46:25.331616  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:48390 -> 117.52.124.146:443
+05/01/2024-22:46:25.339399  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:48372 -> 117.52.124.146:443
+05/01/2024-22:46:25.342594  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:48360 -> 117.52.124.146:443
+05/01/2024-22:46:25.356434  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:47652 -> 116.120.4.215:443
+05/01/2024-22:46:25.556377  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38050 -> 116.120.4.216:443
+05/01/2024-22:46:25.565551  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38070 -> 116.120.4.216:443
+05/01/2024-22:46:25.566090  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38054 -> 116.120.4.216:443
+05/01/2024-22:46:25.574519  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38078 -> 116.120.4.216:443
+05/01/2024-22:46:25.586047  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38092 -> 116.120.4.216:443
+05/01/2024-22:46:25.627095  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38098 -> 116.120.4.216:443
+05/01/2024-22:46:26.238223  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:45024 -> 117.52.47.45:443
+05/01/2024-22:46:26.852222  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:40716 -> 183.111.134.34:443
+05/01/2024-22:46:26.852245  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:45036 -> 117.52.47.45:443
+05/01/2024-22:46:26.855197  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:40718 -> 183.111.134.34:443
+05/01/2024-22:46:26.858642  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:40742 -> 183.111.134.34:443
+05/01/2024-22:46:26.862935  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:40726 -> 183.111.134.34:443
+05/01/2024-22:46:26.866934  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:40724 -> 183.111.134.34:443
+05/01/2024-22:46:27.474307  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:33550 -> 117.52.47.34:443
+05/01/2024-22:46:27.533245  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:33562 -> 117.52.47.34:443
+05/01/2024-22:46:28.257303  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:45046 -> 117.52.47.45:443
+05/01/2024-22:46:28.496936  [**] [1:10013:1] gmarket.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:45048 -> 117.52.47.45:443
+05/01/2024-22:46:35.516797  [**] [1:10014:1] coupang.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:60398 -> 54.192.175.50:443
+05/01/2024-22:46:35.614986  [**] [1:10014:1] coupang.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:37864 -> 172.64.147.28:443
+05/01/2024-22:46:37.457511  [**] [1:10014:1] coupang.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:49298 -> 23.210.36.12:443
+05/01/2024-22:46:37.954087  [**] [1:10014:1] coupang.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:48026 -> 23.210.37.70:443
+05/01/2024-22:46:37.994131  [**] [1:10014:1] coupang.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:49342 -> 23.210.36.12:443
+05/01/2024-22:46:37.996405  [**] [1:10014:1] coupang.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:49326 -> 23.210.36.12:443
+05/01/2024-22:46:37.998134  [**] [1:10014:1] coupang.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:49314 -> 23.210.36.12:443
+05/01/2024-22:46:37.998991  [**] [1:10014:1] coupang.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:49362 -> 23.210.36.12:443
+05/01/2024-22:46:38.005575  [**] [1:10014:1] coupang.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:49350 -> 23.210.36.12:443
+05/01/2024-22:46:38.009870  [**] [1:10014:1] coupang.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:49316 -> 23.210.36.12:443
+05/01/2024-22:46:38.566926  [**] [1:10014:1] coupang.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:48028 -> 23.210.37.70:443
+05/01/2024-22:46:40.849597  [**] [1:10016:1] HTTPS gitlab.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:48318 -> 172.65.251.78:443
+05/01/2024-22:46:42.740912  [**] [1:10015:1] github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:55956 -> 20.200.245.247:443
+05/01/2024-22:46:42.770724  [**] [1:10015:1] github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:55960 -> 20.200.245.247:443
+05/01/2024-22:46:45.270024  [**] [1:10015:1] github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43116 -> 140.82.113.21:443
+05/01/2024-22:46:46.463561  [**] [1:10015:1] github.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43630 -> 20.200.245.245:443
+05/01/2024-22:46:51.403495  [**] [1:10016:1] HTTPS gitlab.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36682 -> 104.18.34.164:443
+05/01/2024-22:47:15.821422  [**] [1:10017:1] suricata.io https access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:47072 -> 35.212.0.44:443
+05/01/2024-22:47:25.723595  [**] [1:10018:1] tving.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:51962 -> 18.64.8.119:443
+05/01/2024-22:47:26.208005  [**] [1:10018:1] tving.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:33176 -> 110.45.216.22:443
+05/01/2024-22:47:26.237345  [**] [1:10018:1] tving.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:33188 -> 110.45.216.22:443
+05/01/2024-22:47:27.192404  [**] [1:10018:1] tving.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:46094 -> 14.34.8.200:443
+05/01/2024-22:47:28.910820  [**] [1:10018:1] tving.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:39216 -> 14.34.8.207:443
+05/01/2024-22:47:28.912671  [**] [1:10018:1] tving.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:39206 -> 14.34.8.207:443
+05/01/2024-22:47:29.499588  [**] [1:10018:1] tving.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:37890 -> 182.162.15.29:443
+05/01/2024-22:47:33.843389  [**] [1:10019:1] classum.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:39966 -> 54.192.175.107:443
+05/01/2024-22:47:33.980236  [**] [1:10018:1] tving.com https access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:51088 -> 14.34.8.200:443
+05/01/2024-22:48:26.330034  [**] [1:10020:1] pwnable.kr https access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:49984 -> 128.61.240.205:443
+05/01/2024-22:48:26.414895  [**] [1:10020:1] pwnable.kr https access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:49988 -> 128.61.240.205:443
+05/01/2024-22:48:27.177276  [**] [1:10020:1] pwnable.kr https access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:49998 -> 128.61.240.205:443
+05/01/2024-22:48:27.184745  [**] [1:10020:1] pwnable.kr https access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:49994 -> 128.61.240.205:443
+05/01/2024-22:48:27.200151  [**] [1:10020:1] pwnable.kr https access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50018 -> 128.61.240.205:443
+05/01/2024-22:48:27.203893  [**] [1:10020:1] pwnable.kr https access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50002 -> 128.61.240.205:443
+05/01/2024-22:48:27.553171  [**] [1:10012:1] youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:47112 -> 172.217.25.174:443
+05/01/2024-22:48:27.564785  [**] [1:10012:1] youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:47092 -> 172.217.25.174:443
+05/01/2024-22:48:27.577074  [**] [1:10012:1] youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:47098 -> 172.217.25.174:443
+05/01/2024-22:48:27.585694  [**] [1:10012:1] youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:47146 -> 172.217.25.174:443
+05/01/2024-22:48:27.594343  [**] [1:10012:1] youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:47148 -> 172.217.25.174:443
+05/01/2024-22:48:27.603218  [**] [1:10012:1] youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:47142 -> 172.217.25.174:443
+05/01/2024-22:48:27.605647  [**] [1:10012:1] youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:47128 -> 172.217.25.174:443
